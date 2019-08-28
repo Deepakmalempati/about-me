@@ -26,3 +26,8 @@ To create a publish a webpage using github, you need to have an account with git
 1. []()
 1. []()
 
+## Contributers
+
+My name is Deepak. I am doing Masters degree in Applied computer science major.
+![](mypic.jpg)
+
