@@ -9,12 +9,12 @@ my profile page
 - [Repository](https://github.com/Deepakmalempati/about-me)
 
 ## About
-This repository will be used to develop a webpage that includes my portfolio
-this webpage is developed with help of class assignments.
+This repo will be used to learn more about github and web technologies. webpage is developed as part of class assignment.
+
 
 ## Recommended tools
 
-To create a publish a webpage using github, you need to have an account with github. learn some basics of markdown with the help of link provided below and a web browser
+To create a publish a webpage using github, you need to have an account with github. learn some basics of markdown with the help of resources linked down
 
 1. [Github Account](https://github.com/join)
 1. [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -28,6 +28,7 @@ To create a publish a webpage using github, you need to have an account with git
 
 ## Contributers
 
-My name is Deepak. I am doing Masters degree in Applied computer science major.
+My name is Deepak. I am doing Master's degree in Applied computer science major at Nothwest missouri state University.
+
 ![](mypic.jpg)
 
