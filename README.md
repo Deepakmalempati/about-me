@@ -21,10 +21,10 @@ To create a publish a webpage using github, you need to have an account with git
 1. [Web browser](https://www.google.com/chrome/)
 
 ## Recommended resources
-1. [online web development learning platform](https://teamtreehouse.com/)
+1. [web development learning platform](https://w3schools.com/)
 1. [Github tutorials](https://github.com/cdnjs/tutorials)
-1. []()
-1. []()
+1. [HTML Textbook](https://www.amazon.com/Learning-MySQL-JavaScript-HTML5-Step/dp/1491949465)
+
 
 ## Contributers
 
