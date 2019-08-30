@@ -14,7 +14,7 @@ This repo will be used to learn more about github and web technologies. webpage 
 
 ## Recommended tools
 
-To create a publish a webpage using github, you need to have an account with github. learn some basics of markdown with the help of resources linked down
+To create a publish a webpage using github, you need to have an account with github. learn some basics of markdown, git with the help of resources linked down
 
 1. [Github Account](https://github.com/join)
 1. [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
