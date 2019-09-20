@@ -5,7 +5,7 @@ my profile page
 
 ## Repository links
 
-- [Github Page](https://deepakmalempati.github.io/about-me/.) <br>
+- [Github Page](https://deepakmalempati.github.io/about-me/index.html.) <br>
 - [Repository](https://github.com/Deepakmalempati/about-me)
 
 ## About
@@ -31,4 +31,9 @@ To create a publish a webpage using github, you need to have an account with git
 My name is Deepak. I am doing Master's degree in Applied computer science major at Nothwest missouri state University.
 
 ![](mypic.jpg)
+
+## External Resources used for P2
+1. Bootstrap material design is used for styling the webpage
+2. background image is taken by me(Deepak)
+3. linkedin is logo of linkedin company
 
