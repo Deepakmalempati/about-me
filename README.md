@@ -1,5 +1,4 @@
 # Deepak
-my profile page
 
 ## Current
 - I am senior graduate student at Northwest Missouri state University.
