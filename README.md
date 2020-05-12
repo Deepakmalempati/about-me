@@ -1,39 +1,26 @@
-# about-me
+# Deepak
 my profile page
 
+## Current
+- I am senior graduate student at Northwest Missouri state University.
+- I have successfully completed 2 semesters as a graduate student in applied computer science major.
 
 
-## Repository links
+## Background
+I am from city named Hyderabad which is located in southern part of India. I did my bachelors in computer science engineering and worked for a major information technology firm. Very recently cooking has become a new hobby for me.
 
-- [Github Page](https://deepakmalempati.github.io/about-me/index.html.) <br>
-- [Repository](https://github.com/Deepakmalempati/about-me)
+## Plans
 
-## About
-This repo will be used to learn more about github and web technologies. webpage is developed as part of class assignment.
+I didn't plan anything for my career as of now. But surely I will continue to work on new tehnologies. I want to be an entrepreneur.
 
-
-## Recommended tools
-
-To create a publish a webpage using github, you need to have an account with github. learn some basics of markdown, git with the help of resources linked down
-
-1. [Github Account](https://github.com/join)
-1. [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-1. [Web browser](https://www.google.com/chrome/)
-
-## Recommended resources
-1. [web development learning platform](https://w3schools.com/)
-1. [Github tutorials](https://github.com/cdnjs/tutorials)
-1. [HTML Textbook](https://www.amazon.com/Learning-MySQL-JavaScript-HTML5-Step/dp/1491949465)
+## Links
+1. [My LinkedIn profile](https://www.linkedin.com/in/malempatideepak/)
+1. [BitBuket Profile](https://bitbucket.org/DeepakMalempati/)
+1. [My android project](https://github.com/Deepakmalempati/Roommate-Finder)
 
 
-## Contributers
-
-My name is Deepak. I am doing Master's degree in Applied computer science major at Nothwest missouri state University.
+## My Photo
 
 ![](mypic.jpg)
 
-## External Resources used for P2
-1. Bootstrap material design is used for styling the webpage
-2. background image is taken by me(Deepak)
-3. linkedin is logo of linkedin company
 
