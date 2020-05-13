@@ -1,4 +1,6 @@
 # Deepak
+## New Skills
+- Big data - retriving data from web and sorting
 
 ## Current
 - I am senior graduate student at Northwest Missouri state University.
@@ -16,6 +18,7 @@ I didn't plan anything for my career as of now. But surely I will continue to wo
 1. [My LinkedIn profile](https://www.linkedin.com/in/malempatideepak/)
 1. [BitBuket Profile](https://bitbucket.org/DeepakMalempati/)
 1. [My android project](https://github.com/Deepakmalempati/Roommate-Finder)
+1. [My shell data processing project](https://github.com/Deepakmalempati/shell-data-processing)
 
 
 ## My Photo
